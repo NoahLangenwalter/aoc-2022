@@ -6,7 +6,7 @@ function supplyStacks(): void {
 [R] [C] [N] [N] [F] [W] [C]     [W]
 [D] [F] [S] [M] [L] [T] [L] [Z] [Z]
 [C] [W] [B] [G] [S] [V] [F] [D] [N]
-[V] [G] [C] [Q] [T] [J] [P] [B] [M]`
+[V] [G] [C] [Q] [T] [J] [P] [B] [M]`;
 
     let inputSteps: string = `move 2 from 8 to 4
 move 2 from 7 to 3
@@ -509,7 +509,7 @@ move 1 from 2 to 8
 move 2 from 2 to 5
 move 4 from 5 to 7
 move 5 from 6 to 1
-move 1 from 3 to 4`
+move 1 from 3 to 4`;
 
     let cratesArray: string[] = inputCrates.split("\n");
     let stepsArray: string[] = inputSteps.split("\n");
