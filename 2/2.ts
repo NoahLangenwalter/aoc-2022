@@ -1,4 +1,4 @@
-function main(): void {
+function blarg(): void {
     let input: string = `A X
 B Z
 C Z
@@ -2555,4 +2555,4 @@ A Y`;
     console.log(total);
 }
 
-main();
+blarg();
