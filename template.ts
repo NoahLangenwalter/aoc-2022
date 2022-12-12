@@ -14,7 +14,6 @@ function main(): number {
         return count;
     }
 
-    // return countVisible();
     return findAnswer();
 }
 
