@@ -1,0 +1,136 @@
+2111
+
+== Minute 1 ==
+: 0
+No tasks. Restart minute!
+
+== Minute 2 ==
+: 0
+The elephant move(s) toward YL: 2
+You move(s) toward IR: 1
+
+== Minute 3 ==
+: 0
+The elephant move(s) toward YL: 1
+You move(s) toward IR: 0
+
+== Minute 4 ==
+: 0
+The elephant move(s) toward YL: 0
+You open(s) valve IR.
+
+== Minute 5 ==
+IR: 6
+The elephant open(s) valve YL.
+You move(s) toward JT: 2
+
+== Minute 6 ==
+IR,YL: 11
+You move(s) toward JT: 1
+The elephant move(s) toward EA: 2
+
+== Minute 7 ==
+IR,YL: 11
+You move(s) toward JT: 0
+The elephant move(s) toward EA: 1
+
+== Minute 8 ==
+IR,YL: 11
+You open(s) valve JT.
+The elephant move(s) toward EA: 0
+
+== Minute 9 ==
+IR,YL,JT: 32
+The elephant open(s) valve EA.
+You move(s) toward SQ: 1
+
+== Minute 10 ==
+IR,YL,JT,EA: 50
+You move(s) toward SQ: 0
+The elephant move(s) toward JU: 1
+
+== Minute 11 ==
+IR,YL,JT,EA: 50
+You open(s) valve SQ.
+The elephant move(s) toward JU: 0
+
+== Minute 12 ==
+IR,YL,JT,EA,SQ: 73
+The elephant open(s) valve JU.
+You move(s) toward IP: 6
+
+== Minute 13 ==
+IR,YL,JT,EA,SQ,JU: 90
+You move(s) toward IP: 5
+The elephant move(s) toward TI: 2
+
+== Minute 14 ==
+IR,YL,JT,EA,SQ,JU: 90
+You move(s) toward IP: 4
+The elephant move(s) toward TI: 1
+
+== Minute 15 ==
+IR,YL,JT,EA,SQ,JU: 90
+You move(s) toward IP: 3
+The elephant move(s) toward TI: 0
+
+== Minute 16 ==
+IR,YL,JT,EA,SQ,JU: 90
+You move(s) toward IP: 2
+The elephant open(s) valve TI.
+
+== Minute 17 ==
+IR,YL,JT,EA,SQ,JU,TI: 112
+You move(s) toward IP: 1
+The elephant move(s) toward RH: 1
+
+== Minute 18 ==
+IR,YL,JT,EA,SQ,JU,TI: 112
+You move(s) toward IP: 0
+The elephant move(s) toward RH: 0
+
+== Minute 19 ==
+IR,YL,JT,EA,SQ,JU,TI: 112
+You open(s) valve IP.
+The elephant open(s) valve RH.
+
+== Minute 20 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH: 136
+You move(s) toward YD: 2
+The elephant move(s) toward PK: 2
+
+== Minute 21 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH: 136
+You move(s) toward YD: 1
+The elephant move(s) toward PK: 1
+
+== Minute 22 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH: 136
+You move(s) toward YD: 0
+The elephant move(s) toward PK: 0
+
+== Minute 23 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH: 136
+You open(s) valve YD.
+The elephant open(s) valve PK.
+
+== Minute 24 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH,YD,PK: 151
+You move(s) toward UX: 1
+The elephant move(s) toward VM: 1
+
+== Minute 25 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH,YD,PK: 151
+You move(s) toward UX: 0
+The elephant move(s) toward VM: 0
+
+== Minute 26 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH,YD,PK: 151
+You open(s) valve UX.
+The elephant open(s) valve VM.
+
+== Minute 27 ==
+IR,YL,JT,EA,SQ,JU,TI,IP,RH,YD,PK,UX,VM: 174
+
+
+--Notes: Apparently this was a good one to know about weighted graphs and the Floyd-Marshall Algorithm
