@@ -1,4 +1,4 @@
-function main(): number {
+namespace blah {
     let input: string =
 ``;
 
@@ -14,7 +14,5 @@ function main(): number {
         return count;
     }
 
-    return findAnswer();
+    console.log(findAnswer());
 }
-
-console.log(main());
